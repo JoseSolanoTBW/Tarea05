@@ -1,6 +1,6 @@
 /**
- * Nombre del programa
- * Descripción: 
+ * Restaurante Familia
+ * Descripción: Calcula la cuenta de una familia de 4 personas
  * Fecha:9 de febrero del 2017
  * Autor:Adrián Obando Leitón
  * Fecha de modificación: 09-02-17
